@@ -55,3 +55,16 @@ Un bouton dans l’interface permet de recommencer à tout moment le niveau en c
 
 ---
 
+## 👨‍💻 Crédits – Développeurs :
+
+Donovan P.
+
+Joshua H.
+
+Marta A.
+
+William M.
+
+Paul G.
+
+---
